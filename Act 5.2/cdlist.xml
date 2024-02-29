@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cd_p1.xsl"?>
+<catalogo>
+    <cd>
+        <tituloAlbum>El lado oscuro de la luna</tituloAlbum>
+        <artista>Pink Floyd</artista>
+        <canciones>
+            <cancion tiempo="2:06">Speak to Me</cancion>
+            <cancion tiempo="3:57">Time</cancion>
+            <cancion tiempo="7:05">Money</cancion>
+        </canciones>
+        <sello>Harvest, EMI</sello>
+        <anio>1973</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>Thriller</tituloAlbum>
+        <artista>Michael Jackson</artista>
+        <canciones>
+            <cancion tiempo="4:20">Beat It</cancion>
+            <cancion tiempo="5:57">Billie Jean</cancion>
+            <cancion tiempo="4:18">Thriller</cancion>
+        </canciones>
+        <sello>Epic Records</sello>
+        <anio>1982</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>Adele-21</tituloAlbum>
+        <artista>Adele</artista>
+        <canciones>
+            <cancion tiempo="3:48">Rolling In The Deep</cancion>
+            <cancion tiempo="3:42">Rumour Has It</cancion>
+            <cancion tiempo="4:09">Turning Tables</cancion>
+        </canciones>
+        <sello>Beggars Group Digital Ltd</sello>
+        <anio>2015</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>Daboia Russelii</tituloAlbum>
+        <artista>Blake</artista>
+        <canciones>
+            <cancion tiempo="3:11">Morte</cancion>
+            <cancion tiempo="3:21">Ganatelo</cancion>
+            <cancion tiempo="4:20">Y yo que</cancion>
+        </canciones>
+        <sello>Animals Rap</sello>
+        <anio>2022</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>Fuera The Serie´s</tituloAlbum>
+        <artista>Blake</artista>
+        <canciones>
+            <cancion tiempo="3:01">FueraTheSerie-3</cancion>
+            <cancion tiempo="3:11">FueraTheSerie-2</cancion>
+            <cancion tiempo="2:33">FueraTheSerie-1</cancion>
+        </canciones>
+        <sello>Animals Rap</sello>
+        <anio>2018</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>Gran Calibre</tituloAlbum>
+        <artista>Blake</artista>
+        <canciones>
+            <cancion tiempo="2:14">Flow</cancion>
+            <cancion tiempo="3:52">De Tripas Corazon</cancion>
+            <cancion tiempo="3:43">Desahogate</cancion>
+        </canciones>
+        <sello>Animals Rap</sello>
+        <anio>2016</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>Thriller</tituloAlbum>
+        <artista>Michael Jackson</artista>
+        <canciones>
+            <cancion tiempo="4:20">Beat It</cancion>
+            <cancion tiempo="5:57">Billie Jean</cancion>
+            <cancion tiempo="4:18">Thriller</cancion>
+        </canciones>
+        <sello>Epic Records</sello>
+        <anio>1982</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>Thriller</tituloAlbum>
+        <artista>Michael Jackson</artista>
+        <canciones>
+            <cancion tiempo="4:20">Beat It</cancion>
+            <cancion tiempo="5:57">Billie Jean</cancion>
+            <cancion tiempo="4:18">Thriller</cancion>
+        </canciones>
+        <sello>Epic Records</sello>
+        <anio>1982</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>Thriller</tituloAlbum>
+        <artista>Michael Jackson</artista>
+        <canciones>
+            <cancion tiempo="4:20">Beat It</cancion>
+            <cancion tiempo="5:57">Billie Jean</cancion>
+            <cancion tiempo="4:18">Thriller</cancion>
+        </canciones>
+        <sello>Epic Records</sello>
+        <anio>1982</anio>
+    </cd>
+    <cd>
+        <tituloAlbum>Thriller</tituloAlbum>
+        <artista>Michael Jackson</artista>
+        <canciones>
+            <cancion tiempo="4:20">Beat It</cancion>
+            <cancion tiempo="5:57">Billie Jean</cancion>
+            <cancion tiempo="4:18">Thriller</cancion>
+        </canciones>
+        <sello>Epic Records</sello>
+        <anio>1982</anio>
+    </cd>
+    
+</catalogo>
