@@ -6,7 +6,7 @@
             <h1>Mi biblioteca</h1>
             <table>
                 <tr bgcolor="#887788">
-                    <th>Título</th>
+                    <th>Titulo</th>
                     <th>Autor</th>
                 </tr>
                 <xsl:for-each select="libreria/libro">
