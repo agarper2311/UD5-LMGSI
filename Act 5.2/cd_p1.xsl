@@ -6,7 +6,7 @@
             <h1>Catálogo de CDs</h1>
             <table border="1">
                 <tr bgcolor="#887788">
-                    <th>Título del Álbum</th>
+                    <th>Título del Album</th>
                     <th>Artista</th>
                     <th>Canciones y Duración</th>
                     <th>Sello Discográfico</th>

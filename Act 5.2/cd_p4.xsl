@@ -7,7 +7,7 @@
             <table border="1">
                 <tr bgcolor="#887788">
                     <th>Artista</th>
-                    <th>Título del Álbum</th>
+                    <th>Título del Album</th>
                     <th>Canción</th>
                 </tr>
                 <xsl:for-each select="catalogo/cd/canciones/cancion[@tiempo &lt; '4:00']">

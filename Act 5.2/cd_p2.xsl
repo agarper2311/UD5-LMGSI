@@ -6,7 +6,7 @@
             <h1>Canciones de Pink Floyd</h1>
             <table border="1">
                 <tr bgcolor="#887788">
-                    <th>Título del Álbum</th>
+                    <th>Título del Album</th>
                     <th>Canciones</th>
                 </tr>
                 <xsl:for-each select="catalogo/cd[artista='Pink Floyd']">
