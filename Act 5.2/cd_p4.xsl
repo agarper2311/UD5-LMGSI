@@ -3,7 +3,7 @@
 <xsl:template match="/">
     <html>
         <body>
-            <h1>Canciones con Duración Inferior a 4:00</h1>
+            <h1>Canciones con Duracion Inferior a 4:00</h1>
             <table border="1">
                 <tr bgcolor="#887788">
                     <th>Artista</th>
